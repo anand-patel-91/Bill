@@ -12,8 +12,6 @@ function additem(){
     c1.innerHTML="<input type='text'>"
     c2.innerHTML="<input type='text' class='qt'>"
     c3.innerHTML="<input type='text' class='pr'>"
-
-    total()
 }
 
 function total(){
