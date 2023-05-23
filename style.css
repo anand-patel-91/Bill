@@ -13,7 +13,7 @@ body {
 }
 
 table {
-    width: 90%;
+    width: 90vw;
     margin: auto;
     border-collapse: collapse;
     border: 2px solid rgb(200, 200, 200);
@@ -47,6 +47,11 @@ tr:nth-child(odd) td {
 
 caption {
     padding: 10px;
+}
+
+h1{
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
 }
 
 button {
