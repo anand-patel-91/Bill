@@ -78,3 +78,12 @@ input{
     background-color: red;
     color: white;
 }
+
+footer {
+    margin-top: 50px;
+}
+
+a, a:visited{
+    text-decoration: none;
+    color: black;   
+}
