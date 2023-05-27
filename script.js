@@ -28,7 +28,7 @@ function total(){
 
 function reset(){
     tab.innerHTML=""
-    pEL.innerText=`Total : Rs. 0`
+    pEL.innerText=`Total: Rs.0`
 }
 
 function deleteRow(el){
